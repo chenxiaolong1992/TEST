@@ -49,6 +49,8 @@
     NSLog(@"都当耳旁风了吗");
     NSLog(@"强哥更帅。帅的掉屎");
     NSLog(@"谁说的 明明是帅的吃屎");
+    NSLog(@"比一比，龙哥强哥看谁吃屎多！！");
+    
 }
 
 - (void)didReceiveMemoryWarning {
