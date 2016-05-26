@@ -39,6 +39,7 @@
     NSLog(@"强哥好");
     NSLog(@"哥哥哈哦啊");
     NSLog(@"龙哥真帅");
+    NSLog(@"都当耳旁风了吗");
 }
 
 - (void)didReceiveMemoryWarning {
