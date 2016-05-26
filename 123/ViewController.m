@@ -50,6 +50,7 @@
     NSLog(@"强哥更帅。帅的掉屎");
     NSLog(@"谁说的 明明是帅的吃屎");
     NSLog(@"就动");
+    NSLog(@"再怪");
 }
 
 - (void)didReceiveMemoryWarning {
