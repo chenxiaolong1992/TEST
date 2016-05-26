@@ -38,7 +38,9 @@
     NSLog(@"龙哥好");
     NSLog(@"强哥好");
     NSLog(@"哥哥哈哦啊");
+    NSLog(@"当时那把剑，离我的喉咙只有0.01毫米");
     NSLog(@"龙哥真帅");
+    NSLog(@"强哥更帅。帅的掉屎");
 }
 
 - (void)didReceiveMemoryWarning {
