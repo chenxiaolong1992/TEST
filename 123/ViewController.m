@@ -31,6 +31,8 @@
     
     
     NSLog(@"123");
+    
+    NSLog(@"老师镇流");
 }
 
 - (void)didReceiveMemoryWarning {
