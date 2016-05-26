@@ -33,6 +33,7 @@
     NSLog(@"123");
     
     NSLog(@"老师镇流");
+    NSLog(@"日他姐");
 }
 
 - (void)didReceiveMemoryWarning {
