@@ -20,6 +20,8 @@
     NSLog(@"你好");
     
     NSLog(@"你真好");
+    
+    NSLog(@"你真坏");
 }
 
 - (void)didReceiveMemoryWarning {
