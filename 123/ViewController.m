@@ -41,6 +41,8 @@
     NSLog(@"当时那把剑，离我的喉咙只有0.01毫米");
     NSLog(@"龙哥真帅");
     NSLog(@"都当耳旁风了吗");
+    NSLog(@"强哥更帅。帅的掉屎");
+    NSLog(@"谁说的 明明是帅的吃屎");
 }
 
 - (void)didReceiveMemoryWarning {
