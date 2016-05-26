@@ -36,6 +36,7 @@
     NSLog(@"日他姐");
     NSLog(@"龙哥好");
     NSLog(@"强哥好");
+    
 }
 
 - (void)didReceiveMemoryWarning {
