@@ -42,6 +42,8 @@
     
     
     
+    NSLog(@"哥哥哈哦啊");
+    NSLog(@"龙哥真帅");
 }
 
 - (void)didReceiveMemoryWarning {
