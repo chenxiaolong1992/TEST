@@ -34,7 +34,7 @@
     
     NSLog(@"老师镇流");
     NSLog(@"日他姐");
-    NSLog(@"asd");
+    
 }
 
 - (void)didReceiveMemoryWarning {
