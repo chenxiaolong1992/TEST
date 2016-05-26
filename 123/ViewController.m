@@ -38,6 +38,7 @@
     NSLog(@"龙哥好");
     NSLog(@"强哥好");
     NSLog(@"哥哥哈哦啊");
+    NSLog(@"龙哥真帅");
 }
 
 - (void)didReceiveMemoryWarning {
