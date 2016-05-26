@@ -16,7 +16,6 @@
 		041CAA1B1CF69A3500AA7E02 /* _23Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 041CAA1A1CF69A3500AA7E02 /* _23Tests.m */; };
 		041CAA6A1CF6E26300AA7E02 /* CollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 041CAA681CF6E26300AA7E02 /* CollectionViewCell.m */; };
 		041CAA6B1CF6E26300AA7E02 /* CollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 041CAA691CF6E26300AA7E02 /* CollectionViewCell.xib */; };
-		041CAA6E1CF6E3E800AA7E02 /* 456.m in Sources */ = {isa = PBXBuildFile; fileRef = 041CAA6D1CF6E3E800AA7E02 /* 456.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,8 +43,6 @@
 		041CAA1A1CF69A3500AA7E02 /* _23Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _23Tests.m; sourceTree = "<group>"; };
 		041CAA681CF6E26300AA7E02 /* CollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionViewCell.m; sourceTree = "<group>"; };
 		041CAA691CF6E26300AA7E02 /* CollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CollectionViewCell.xib; sourceTree = "<group>"; };
-		041CAA6C1CF6E3E700AA7E02 /* 456.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = 456.h; sourceTree = "<group>"; };
-		041CAA6D1CF6E3E800AA7E02 /* 456.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = 456.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,8 +87,6 @@
 				041CAA021CF69A3500AA7E02 /* AppDelegate.h */,
 				041CAA031CF69A3500AA7E02 /* AppDelegate.m */,
 				041CAA061CF69A3500AA7E02 /* ViewController.m */,
-				041CAA6C1CF6E3E700AA7E02 /* 456.h */,
-				041CAA6D1CF6E3E800AA7E02 /* 456.m */,
 				041CAA681CF6E26300AA7E02 /* CollectionViewCell.m */,
 				041CAA691CF6E26300AA7E02 /* CollectionViewCell.xib */,
 				041CAA081CF69A3500AA7E02 /* Main.storyboard */,
@@ -233,7 +228,6 @@
 				041CAA041CF69A3500AA7E02 /* AppDelegate.m in Sources */,
 				041CAA6A1CF6E26300AA7E02 /* CollectionViewCell.m in Sources */,
 				041CAA011CF69A3500AA7E02 /* main.m in Sources */,
-				041CAA6E1CF6E3E800AA7E02 /* 456.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
